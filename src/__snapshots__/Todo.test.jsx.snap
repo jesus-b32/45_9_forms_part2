@@ -1,0 +1,23 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App > matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div />
+    <button>
+      Remove Todo
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Todo > matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div />
+    <button>
+      Remove Todo
+    </button>
+  </div>
+</DocumentFragment>
+`;
